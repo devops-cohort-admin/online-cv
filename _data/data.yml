@@ -5,7 +5,6 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
-    qualifications: True #
 
     # Profile information
     name: Sample Delegate
@@ -36,8 +35,7 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
-qualifications:
-    - name: CCP
+
 education:
     - degree: MSc in Computer Science
       university: University of London
@@ -47,6 +45,7 @@ education:
       university: Bristol University
       time: 2007 - 2011
       details:
+      
 experiences:
     - role: Academy Trainee
       time: 2020 - Present
@@ -61,8 +60,10 @@ experiences:
         error sit voluptatem accusantium doloremque laudantium, totam rem
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        
+        It was whilst I was at QA that I received the following Certifications
+          - AZ-900
+          - AZ-103
 
 projects:
     title: Projects
