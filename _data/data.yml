@@ -73,12 +73,12 @@ projects:
         tagline: "First project completed at the Academy - assessed using SFIA"
 
       - title: SFIA 2
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        link: "https://github.com/devops-cohort-admin/SFIA2"
+        tagline: "Second project completed at the Academy - assessed using SFIA"
 
-      - title: Group
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Final Group Project
+        link: "https://github.com/devops-cohort-admin/Final_project"
+        tagline: "Final Project at the Academy completed as a group"
 
 
 skills:
