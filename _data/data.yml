@@ -9,6 +9,7 @@ sidebar:
     # Profile information
     name: Sample Delegate
     tagline: Digital Consultant
+    avatar: profile.png # needs to be QA Logo
     
     # Sidebar links
     github: devops-cohort-admin
