@@ -5,6 +5,7 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
+    qualifications: True #
 
     # Profile information
     name: Sample Delegate
@@ -35,6 +36,8 @@ career-profile:
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
+qualifications:
+    - name: CCP
 education:
     - degree: MSc in Computer Science
       university: University of London
